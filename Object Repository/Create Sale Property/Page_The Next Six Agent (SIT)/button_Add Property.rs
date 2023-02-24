@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Publish</name>
+   <name>button_Add Property</name>
    <tag></tag>
-   <elementGuidId>e1093779-6918-412e-8d6a-f69e2e652680</elementGuidId>
+   <elementGuidId>aa28d6e9-fa59-44e8-bc6d-86a06b0cc5d5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary</value>
+         <value>button.btn.btn-link.btn-sm</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div/div/div[2]/div/div[3]/button</value>
+         <value>//div[@id='root']/main/div/div/div[2]/div/div[4]/div/button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>86440444-13a5-4c8b-ae0e-b20060ac629e</webElementGuid>
+      <webElementGuid>392f8e85-2cb9-40fd-afcc-5a8e01944650</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>0c216ef6-17a9-4746-8a76-8b257829cc85</webElementGuid>
+      <value>btn btn-link btn-sm</value>
+      <webElementGuid>64a020dd-a2e6-48b5-9c50-615276a8435f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Publish</value>
-      <webElementGuid>ef42e170-0db9-4bfb-bead-64ed346dffb9</webElementGuid>
+      <value>Add Property</value>
+      <webElementGuid>d7cb109c-09e8-4490-a730-57392727bfea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>67981635-bd48-40b5-b19c-ac3049b7186a</webElementGuid>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-link btn-sm&quot;]</value>
+      <webElementGuid>13772029-b9d8-4d03-a839-5830a7e42bfc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div[2]/div/div[3]/button</value>
-      <webElementGuid>14bbc84f-541b-41a1-93b9-444030e04884</webElementGuid>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[4]/div/button[2]</value>
+      <webElementGuid>e1c95bb3-dc38-45bd-8fb2-dc928d75cf46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview Video'])[1]/following::button[1]</value>
-      <webElementGuid>9eca0d68-3b5b-4e99-987e-746cb7d5d213</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::button[1]</value>
+      <webElementGuid>8d7b17db-f6c2-476b-861a-7550cd2aad49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Reality (VR) :'])[1]/following::button[2]</value>
-      <webElementGuid>f8952b6a-2620-4121-8ea3-81a49b8ad26a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by:'])[1]/preceding::button[1]</value>
+      <webElementGuid>c7209e7f-11d9-4bb4-a1a7-5ecda318faf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
-      <webElementGuid>43fc813f-5e02-4948-8268-1e7924b57220</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Publish']/parent::*</value>
-      <webElementGuid>f8b4d98f-56b3-44df-8bba-42a57c1efaf4</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Add Property']/parent::*</value>
+      <webElementGuid>990f59ae-0c67-4c2d-84d5-5cce703a0577</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>dcf3a916-5d4a-45a0-a5ff-ed76ca077ca6</webElementGuid>
+      <value>//button[2]</value>
+      <webElementGuid>3737137f-0883-4d9c-88fd-75823bfe2498</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = ' Publish' or . = ' Publish')]</value>
-      <webElementGuid>3c22af91-ef8e-401b-9ff6-5de5139b5875</webElementGuid>
+      <value>//button[(text() = 'Add Property' or . = 'Add Property')]</value>
+      <webElementGuid>355ca204-e9d4-4bde-85b4-03a4166b8672</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_Video Link_videoOriLink</name>
    <tag></tag>
-   <elementGuidId>1f48abad-8490-4881-aec6-38756a23a401</elementGuidId>
+   <elementGuidId>5feaa3d2-550c-476e-bbf0-7a72c6eb8098</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
+         <value>input[name=&quot;videoOriLink&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='password']</value>
+         <value>//input[@name='videoOriLink']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9c015a27-9b3c-4d4a-9277-647beae400bd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>1105834a-405f-4623-b5a5-8dd919c78545</webElementGuid>
+      <webElementGuid>a40eaaa6-889b-4d0e-b65a-6c7bfe1c283e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>7579249b-633f-4a3f-80cd-89aa408341d3</webElementGuid>
+      <value>videoOriLink</value>
+      <webElementGuid>29a0f361-dac6-4834-8f11-acb7f5e0f80e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Video Link</value>
+      <webElementGuid>20ea5050-9282-4131-a815-4167cb2fd627</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>e20c5a30-56c5-40b9-987a-9de1016da179</webElementGuid>
+      <value>text</value>
+      <webElementGuid>391a9f9d-79b4-4073-8c30-4cc69c9c76cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,54 +54,46 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control</value>
-      <webElementGuid>cf109274-1da9-4b54-9707-89728dd82a84</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>7a1b5420-9d75-491f-8104-65d0e331f155</webElementGuid>
+      <webElementGuid>ec0a9b56-a392-44b7-9358-d6c0333aa154</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4&quot;]/div[@class=&quot;card card-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control form-control&quot;]</value>
-      <webElementGuid>9441af70-d784-493f-833c-2e56b5d3d001</webElementGuid>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;d-flex align-items-center input-group&quot;]/div[@class=&quot;col-sm-12 col-xl-8&quot;]/input[@class=&quot;form-control form-control&quot;]</value>
+      <webElementGuid>40c92e84-3fd9-45d7-b5f7-3592f324c98f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='password']</value>
-      <webElementGuid>7c5fede0-f49b-4707-aa94-3068f339f7eb</webElementGuid>
+      <value>//input[@name='videoOriLink']</value>
+      <webElementGuid>0b26bce2-8b4f-4f73-9e04-dd9f4d06e483</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div/div/form/div[3]/input</value>
-      <webElementGuid>a2a7ba59-fa6d-4b9a-ade8-476648cacffe</webElementGuid>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[30]/div/div/input</value>
+      <webElementGuid>921ee634-9783-4e06-bf36-155ea3ae8bd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
-      <webElementGuid>905b4644-c4e2-4dbd-8e17-7ddbe65196d8</webElementGuid>
+      <value>//div[30]/div/div/input</value>
+      <webElementGuid>f7570209-3441-481d-a81a-a78556fd69c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = 'Password' and @name = 'password' and @type = 'password']</value>
-      <webElementGuid>3c3461f2-d251-43e2-82d5-04a161d172af</webElementGuid>
+      <value>//input[@name = 'videoOriLink' and @placeholder = 'Video Link' and @type = 'text']</value>
+      <webElementGuid>df78e373-ae81-4cd9-b160-6a0b9323ff2e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

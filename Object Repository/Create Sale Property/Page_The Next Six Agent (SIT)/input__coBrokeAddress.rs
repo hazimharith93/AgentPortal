@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input__coBrokeAddress</name>
    <tag></tag>
-   <elementGuidId>1f48abad-8490-4881-aec6-38756a23a401</elementGuidId>
+   <elementGuidId>dd25ef4b-1b6c-4929-a3a1-3bcc7722b410</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
+         <value>input[name=&quot;coBrokeAddress&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='password']</value>
+         <value>//input[@name='coBrokeAddress']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9c015a27-9b3c-4d4a-9277-647beae400bd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>1105834a-405f-4623-b5a5-8dd919c78545</webElementGuid>
+      <webElementGuid>7d36e9a3-e4d0-4669-aa39-9e11c3126d16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>7579249b-633f-4a3f-80cd-89aa408341d3</webElementGuid>
+      <value>coBrokeAddress</value>
+      <webElementGuid>44e5c7fe-92ec-4831-b5a8-9ee8d6f373c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Co-broke Address</value>
+      <webElementGuid>c266b716-be6e-4054-8d80-5408e2713ba2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>e20c5a30-56c5-40b9-987a-9de1016da179</webElementGuid>
+      <value>text</value>
+      <webElementGuid>46282978-279e-4cd6-b07a-755c36ec7ac7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,54 +54,46 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control</value>
-      <webElementGuid>cf109274-1da9-4b54-9707-89728dd82a84</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>7a1b5420-9d75-491f-8104-65d0e331f155</webElementGuid>
+      <webElementGuid>d5f6d16f-e4f3-49b1-aa27-c99a6a162d28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4&quot;]/div[@class=&quot;card card-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control form-control&quot;]</value>
-      <webElementGuid>9441af70-d784-493f-833c-2e56b5d3d001</webElementGuid>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;mb-0 row form-group&quot;]/div[@class=&quot;d-flex align-items-center input-group&quot;]/div[@class=&quot;col-sm-12 col-xl-8&quot;]/input[@class=&quot;form-control form-control&quot;]</value>
+      <webElementGuid>86f91b2b-7391-4f5d-a5bd-968850018aaa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='password']</value>
-      <webElementGuid>7c5fede0-f49b-4707-aa94-3068f339f7eb</webElementGuid>
+      <value>//input[@name='coBrokeAddress']</value>
+      <webElementGuid>8cce92ff-4045-4c7e-ac29-4f06da222e79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div/div/form/div[3]/input</value>
-      <webElementGuid>a2a7ba59-fa6d-4b9a-ade8-476648cacffe</webElementGuid>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[14]/div/div/input</value>
+      <webElementGuid>9c2b5560-5acb-49c6-91f0-34fee3e0b57f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
-      <webElementGuid>905b4644-c4e2-4dbd-8e17-7ddbe65196d8</webElementGuid>
+      <value>//div[14]/div/div/input</value>
+      <webElementGuid>6ab18369-03ab-4d64-8d5e-11155e09b09d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = 'Password' and @name = 'password' and @type = 'password']</value>
-      <webElementGuid>3c3461f2-d251-43e2-82d5-04a161d172af</webElementGuid>
+      <value>//input[@name = 'coBrokeAddress' and @placeholder = 'Co-broke Address' and @type = 'text']</value>
+      <webElementGuid>c9c4ac01-e9be-43d5-9763-8ae8087dca22</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

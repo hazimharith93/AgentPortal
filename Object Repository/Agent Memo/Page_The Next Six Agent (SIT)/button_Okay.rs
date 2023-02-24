@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Publish</name>
+   <name>button_Okay</name>
    <tag></tag>
-   <elementGuidId>e1093779-6918-412e-8d6a-f69e2e652680</elementGuidId>
+   <elementGuidId>186da513-93c5-4e40-a1ac-ada1dd60d31b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary</value>
+         <value>div.modal-footer > button.btn.btn-primary</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div/div/div[2]/div/div[3]/button</value>
+         <value>(//button[@type='button'])[6]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>86440444-13a5-4c8b-ae0e-b20060ac629e</webElementGuid>
+      <webElementGuid>bc07556c-6af6-439f-9239-b3383ee6a693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1dfaf21d-389f-414b-92d6-0c7de8018c3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,78 +38,70 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>0c216ef6-17a9-4746-8a76-8b257829cc85</webElementGuid>
+      <webElementGuid>2e902779-054c-4f16-86b4-516909dbf248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Publish</value>
-      <webElementGuid>ef42e170-0db9-4bfb-bead-64ed346dffb9</webElementGuid>
+      <value>Okay</value>
+      <webElementGuid>30da2eaf-df8a-45bb-8387-bac8164282fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>67981635-bd48-40b5-b19c-ac3049b7186a</webElementGuid>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[3]/div[1]/div[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>c13df368-a7e9-460c-9d3b-f93467cf3bb2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div[2]/div/div[3]/button</value>
-      <webElementGuid>14bbc84f-541b-41a1-93b9-444030e04884</webElementGuid>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>cb80d79e-8165-4ffa-b49d-9dbfce692a2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview Video'])[1]/following::button[1]</value>
-      <webElementGuid>9eca0d68-3b5b-4e99-987e-746cb7d5d213</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[2]</value>
+      <webElementGuid>92a0f618-8db5-4d7e-90d1-0582b3e506c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Reality (VR) :'])[1]/following::button[2]</value>
-      <webElementGuid>f8952b6a-2620-4121-8ea3-81a49b8ad26a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::button[1]</value>
+      <webElementGuid>8032e4fa-5363-4a5e-8ae7-a31bc304ab1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
-      <webElementGuid>43fc813f-5e02-4948-8268-1e7924b57220</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Publish']/parent::*</value>
-      <webElementGuid>f8b4d98f-56b3-44df-8bba-42a57c1efaf4</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Okay']/parent::*</value>
+      <webElementGuid>7c4a4783-605a-4d48-beb2-bd150048a1c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>dcf3a916-5d4a-45a0-a5ff-ed76ca077ca6</webElementGuid>
+      <value>//div[3]/div/div/div/div/div[2]/button</value>
+      <webElementGuid>7f4f71b5-9aef-4a1b-85d0-3b3b7cebd4f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = ' Publish' or . = ' Publish')]</value>
-      <webElementGuid>3c22af91-ef8e-401b-9ff6-5de5139b5875</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Okay' or . = 'Okay')]</value>
+      <webElementGuid>b29a3db3-f915-401a-8e5f-a4f498026034</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

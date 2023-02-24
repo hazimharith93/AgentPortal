@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_Jacuzzi_Jacuzzi</name>
    <tag></tag>
-   <elementGuidId>1f48abad-8490-4881-aec6-38756a23a401</elementGuidId>
+   <elementGuidId>8d001127-6efe-4c80-9873-babfd05dbff2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
+         <value>#Jacuzzi</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='password']</value>
+         <value>//input[@id='Jacuzzi']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9c015a27-9b3c-4d4a-9277-647beae400bd</webElementGuid>
+      <webElementGuid>c464de48-b95b-4c86-88b7-76d19c9c7f7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>1105834a-405f-4623-b5a5-8dd919c78545</webElementGuid>
+      <value>Jacuzzi</value>
+      <webElementGuid>454e2fd0-0c99-4173-94c6-70f825e72ae0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>7579249b-633f-4a3f-80cd-89aa408341d3</webElementGuid>
+      <value>Jacuzzi</value>
+      <webElementGuid>2b86fd0b-a672-4d46-ad68-c3597530014b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>e20c5a30-56c5-40b9-987a-9de1016da179</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>51878505-7abf-4224-bfca-0e0031fde2c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control form-control</value>
-      <webElementGuid>cf109274-1da9-4b54-9707-89728dd82a84</webElementGuid>
+      <value>form-check-input</value>
+      <webElementGuid>505d2562-4655-4382-bb5c-adec87377a6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>7a1b5420-9d75-491f-8104-65d0e331f155</webElementGuid>
+      <value>Jacuzzi</value>
+      <webElementGuid>acf4b5f9-cbd3-458a-b0e6-c626221814fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4&quot;]/div[@class=&quot;card card-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control form-control&quot;]</value>
-      <webElementGuid>9441af70-d784-493f-833c-2e56b5d3d001</webElementGuid>
+      <value>id(&quot;Jacuzzi&quot;)</value>
+      <webElementGuid>ef2dffe4-c2f5-47d2-96f0-f2d454caef39</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='password']</value>
-      <webElementGuid>7c5fede0-f49b-4707-aa94-3068f339f7eb</webElementGuid>
+      <value>//input[@id='Jacuzzi']</value>
+      <webElementGuid>1f896c66-3849-47cc-985b-802a061c4963</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div/div/form/div[3]/input</value>
-      <webElementGuid>a2a7ba59-fa6d-4b9a-ade8-476648cacffe</webElementGuid>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[27]/div[6]/div/label/input</value>
+      <webElementGuid>e11d04dc-8e7b-4a96-9ade-b45babf3ebfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/input</value>
-      <webElementGuid>905b4644-c4e2-4dbd-8e17-7ddbe65196d8</webElementGuid>
+      <value>//div[6]/div/label/input</value>
+      <webElementGuid>d4b5386d-46cf-4d7c-b2bc-db5e234bd0f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = 'Password' and @name = 'password' and @type = 'password']</value>
-      <webElementGuid>3c3461f2-d251-43e2-82d5-04a161d172af</webElementGuid>
+      <value>//input[@id = 'Jacuzzi' and @name = 'Jacuzzi' and @type = 'checkbox']</value>
+      <webElementGuid>a02b5a4d-6d6c-4a28-b846-f77e70877181</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

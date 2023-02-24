@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Memo cannot exceed 200 word</name>
+   <name>label_Tenure</name>
    <tag></tag>
-   <elementGuidId>09349cec-f73a-407a-aaf0-57123274d0d8</elementGuidId>
+   <elementGuidId>e77362a3-e9ee-4d4b-84f3-121fdd55ccf1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.notification-message</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div/div/div[2]/div/div[4]/div/div/div</value>
+         <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[21]/label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>6b1d95e6-cdca-4181-96ea-0b7306f91fea</webElementGuid>
+      <value>label</value>
+      <webElementGuid>22ea9824-bbe1-4b5b-9ca2-fad5701797aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>tenure</value>
+      <webElementGuid>82fce4de-fafc-4bd4-8b25-a113e6a6abb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>notification-message</value>
-      <webElementGuid>8446ae11-9e6b-42a5-bba2-42c1cf8bf518</webElementGuid>
+      <value>col-sm-12 col-xl-2 col-form-label</value>
+      <webElementGuid>5fe47cf8-9980-4bb7-9ac3-0866b258fe45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Memo cannot exceed 200 word</value>
-      <webElementGuid>eb126de8-b5a1-4234-8c3d-10c2e910d665</webElementGuid>
+      <value>Tenure* :</value>
+      <webElementGuid>c23afec3-09de-4fec-b942-8d0552fb24ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;notifications-wrapper&quot;]/div[@class=&quot;notifications-tr&quot;]/div[@class=&quot;notification notification-error notification-visible&quot;]/div[@class=&quot;notification-message&quot;]</value>
-      <webElementGuid>e7aa7765-1f05-40e5-9c63-53187afd9fc6</webElementGuid>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row form-group&quot;]/label[@class=&quot;col-sm-12 col-xl-2 col-form-label&quot;]</value>
+      <webElementGuid>ca742010-ab81-4ed0-a003-3b6367ca362f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div[2]/div/div[4]/div/div/div</value>
-      <webElementGuid>01cc1798-105c-4756-a018-c5ddada94170</webElementGuid>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[21]/label</value>
+      <webElementGuid>180c95f3-7365-45b0-856a-3a4c8f7177a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::div[4]</value>
-      <webElementGuid>7897f6f4-4cca-4442-a4f7-0cdfa7c1b49a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details Section'])[1]/following::label[1]</value>
+      <webElementGuid>8bdaf2a3-4122-4e02-a80c-622cc89889b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publish'])[1]/following::div[4]</value>
-      <webElementGuid>6085980b-0fab-4160-a78e-2ab40dc1c180</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[17]/following::label[1]</value>
+      <webElementGuid>8eb229a8-5003-49e9-8415-9b3fbe2d7fef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::div[1]</value>
-      <webElementGuid>7fb3ccc1-216c-46af-adc7-05a9d857ab95</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title Type :'])[1]/preceding::label[1]</value>
+      <webElementGuid>c758e19d-f9cb-4149-835c-8f30fbb451a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Memo cannot exceed 200 word']/parent::*</value>
-      <webElementGuid>3ab3a215-ad4f-4caa-8fc8-94c92292b942</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Tenure']/parent::*</value>
+      <webElementGuid>4353ea53-fcf1-49b4-a3ee-c95339466f9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/div/div</value>
-      <webElementGuid>6f6ba854-e0f2-40ab-b37c-af0b16aee326</webElementGuid>
+      <value>//div[21]/label</value>
+      <webElementGuid>8ba6cf97-432b-4430-bbdc-14c3ef1da2a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Memo cannot exceed 200 word' or . = 'Memo cannot exceed 200 word')]</value>
-      <webElementGuid>7490f767-275f-4d4b-a2da-d32e01fdd8f2</webElementGuid>
+      <value>//label[(text() = 'Tenure* :' or . = 'Tenure* :')]</value>
+      <webElementGuid>94c8bc09-2516-452f-ac60-d6219cbdb530</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

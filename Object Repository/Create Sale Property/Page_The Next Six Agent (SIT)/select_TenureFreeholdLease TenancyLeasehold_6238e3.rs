@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_Highlight</name>
+   <name>select_TenureFreeholdLease TenancyLeasehold_6238e3</name>
    <tag></tag>
-   <elementGuidId>2a547ec7-a6e3-4da8-8bd6-0a6a07f7594e</elementGuidId>
+   <elementGuidId>d2787f10-250b-4c10-8d64-3eb2be876adb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#Tenure</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[8]/div/label</value>
+         <value>//select[@id='Tenure']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>811240ba-1260-4dfc-a1fc-e4dae151d58c</webElementGuid>
+      <value>select</value>
+      <webElementGuid>f9a9f90c-4230-48b1-8fc3-f6fb38050a2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>for</name>
+      <name>id</name>
       <type>Main</type>
-      <value>hightlight</value>
-      <webElementGuid>cf0470b8-1c22-4b26-b0bf-656c62eeb3cf</webElementGuid>
+      <value>Tenure</value>
+      <webElementGuid>6fe8e341-20b5-45b1-aa16-e957191029e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Tenure</value>
+      <webElementGuid>a4e14bc6-6ca3-48ba-81b3-42acad15374e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>col-sm-12 col-xl-2 offset-xl-1 col-form-label</value>
-      <webElementGuid>7273346c-e9df-4eb9-a72d-2a97006bc117</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>540ee0ca-a63f-439f-aba8-d53a098f9adc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Highlight* :</value>
-      <webElementGuid>12b402f7-f423-4de7-808c-ab9ca8e3cf33</webElementGuid>
+      <value>TenureFreeholdLease TenancyLeaseholdMalay Reserved LandUnknown</value>
+      <webElementGuid>417a4093-ac0d-474a-af6a-0e2808b36659</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;input-group&quot;]/label[@class=&quot;col-sm-12 col-xl-2 offset-xl-1 col-form-label&quot;]</value>
-      <webElementGuid>f1f2d148-edb3-4a3c-ae3f-e921cee9168c</webElementGuid>
+      <value>id(&quot;Tenure&quot;)</value>
+      <webElementGuid>03a76f30-b8b3-4455-ba4d-79446c67fbb9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Tenure']</value>
+      <webElementGuid>80c909c5-1624-4bb9-8c53-0bde84749ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[8]/div/label</value>
-      <webElementGuid>c7fd8ed8-3876-4438-8602-9793010c6142</webElementGuid>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[21]/div[2]/select</value>
+      <webElementGuid>42f2748a-13f2-464e-8920-23361246e6e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::label[1]</value>
-      <webElementGuid>e05e21ec-17d0-4389-bba5-df06d32dc892</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[18]/following::select[1]</value>
+      <webElementGuid>3924cb52-c73c-453a-9c8e-4394d69d4207</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Easy Access'])[1]/preceding::label[1]</value>
-      <webElementGuid>fa77c336-89a4-4ad8-8098-565b002fab3a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Highlight']/parent::*</value>
-      <webElementGuid>ea4f40cd-5fc0-4be5-a797-2873d18bf528</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title Type :'])[1]/preceding::select[1]</value>
+      <webElementGuid>b64df7e8-e09f-4ecf-b905-c1d8f93caa0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[8]/div/label</value>
-      <webElementGuid>4df44175-3765-43ed-9674-de7631a1b065</webElementGuid>
+      <value>//div[21]/div[2]/select</value>
+      <webElementGuid>865c39ba-1c15-4aa8-857d-464bccaf1938</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'Highlight* :' or . = 'Highlight* :')]</value>
-      <webElementGuid>35966ecb-fe2a-4ae9-95fa-736d31e7075a</webElementGuid>
+      <value>//select[@id = 'Tenure' and @name = 'Tenure' and (text() = 'TenureFreeholdLease TenancyLeaseholdMalay Reserved LandUnknown' or . = 'TenureFreeholdLease TenancyLeaseholdMalay Reserved LandUnknown')]</value>
+      <webElementGuid>84bcb045-13cb-467e-8c44-d6b200d47d80</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

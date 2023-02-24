@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_User Name  Email Address_username</name>
+   <name>input_Co-Broke_coBroke</name>
    <tag></tag>
-   <elementGuidId>9b6e2d9e-2b45-472f-a78c-13d293f216c2</elementGuidId>
+   <elementGuidId>b55e8007-b7a6-4bd1-9e41-7c64dfd333c4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;username&quot;]</value>
+         <value>input[name=&quot;coBroke&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='username']</value>
+         <value>//input[@name='coBroke']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,78 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>dbe11f4a-e802-4a8d-b512-e42796829001</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>User Name / Email Address</value>
-      <webElementGuid>e4384146-7d90-46d8-843f-90d85f2383f0</webElementGuid>
+      <webElementGuid>a8494b51-f863-49a4-a678-a8938cb4188d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>7cd2dcfd-a7e2-4993-ac8d-5fa62b1a0f2c</webElementGuid>
+      <value>coBroke</value>
+      <webElementGuid>1de9167c-5ab7-41b6-b4c5-dadc9fb1a0ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>faeee7dc-2dea-4798-b094-f0a5cd219b48</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>e3f65078-4874-484e-9486-49962dbe0823</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control form-control</value>
-      <webElementGuid>76b72a80-dc22-4a98-b49e-c862df55d6dd</webElementGuid>
+      <value>form-check-input</value>
+      <webElementGuid>9582df2a-55bc-40f4-be2c-14e66fea3921</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-4&quot;]/div[@class=&quot;card card-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control form-control&quot;]</value>
-      <webElementGuid>f6046818-2293-43c6-95d2-bf5477f07700</webElementGuid>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-check&quot;]/label[@class=&quot;form-check-label&quot;]/input[@class=&quot;form-check-input&quot;]</value>
+      <webElementGuid>99804fb0-7d99-4572-aa41-f979a7b0d431</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='username']</value>
-      <webElementGuid>7ae4aaba-fce1-4197-948a-88127fe4dda0</webElementGuid>
+      <value>//input[@name='coBroke']</value>
+      <webElementGuid>f7fab6c4-4df6-4ded-95b3-36383c17ccf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div/div/form/div[2]/input</value>
-      <webElementGuid>1fbc85c7-8ad4-4f5f-b635-f4368821158e</webElementGuid>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[2]/label/input</value>
+      <webElementGuid>c952cd23-ae09-4e8a-aaf7-4b78528f0198</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>f4106027-d666-43b5-8184-753122fb4bb3</webElementGuid>
+      <value>//div[2]/label/input</value>
+      <webElementGuid>6a26f095-0b43-4c71-89f4-52dcb0c4ba31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = 'User Name / Email Address' and @name = 'username' and @type = 'text']</value>
-      <webElementGuid>3fb6e62b-9ded-4358-bfad-c51ff56ff2bc</webElementGuid>
+      <value>//input[@name = 'coBroke' and @type = 'checkbox']</value>
+      <webElementGuid>9378f46e-081f-4817-a5ee-decbf0c80ac2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

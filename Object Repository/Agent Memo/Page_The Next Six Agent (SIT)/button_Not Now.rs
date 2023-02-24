@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Publish</name>
+   <name>button_Not Now</name>
    <tag></tag>
-   <elementGuidId>e1093779-6918-412e-8d6a-f69e2e652680</elementGuidId>
+   <elementGuidId>5f9d3415-d5ea-4894-902e-cc9f2a8d17ce</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary</value>
+         <value>div.modal-footer > button.btn.btn-secondary</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div/div/div[2]/div/div[3]/button</value>
+         <value>(//button[@type='button'])[7]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,71 +22,71 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>86440444-13a5-4c8b-ae0e-b20060ac629e</webElementGuid>
+      <webElementGuid>64e7242b-86bc-4588-809b-e2c81bb5c97c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3a7b87b8-6f6d-4206-a191-b802eee0dd91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>0c216ef6-17a9-4746-8a76-8b257829cc85</webElementGuid>
+      <value>btn btn-secondary</value>
+      <webElementGuid>dda45243-a739-44c5-9508-e92da2964ce1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Publish</value>
-      <webElementGuid>ef42e170-0db9-4bfb-bead-64ed346dffb9</webElementGuid>
+      <value>Not Now</value>
+      <webElementGuid>5286127f-a86e-4483-8da6-6ce3d5031a94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>67981635-bd48-40b5-b19c-ac3049b7186a</webElementGuid>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[3]/div[1]/div[@class=&quot;modal fade show&quot;]/div[@class=&quot;modal-dialog sharePropertyModal&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-secondary&quot;]</value>
+      <webElementGuid>9636ab8f-5849-4f75-9534-ee29d2a58752</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div[2]/div/div[3]/button</value>
-      <webElementGuid>14bbc84f-541b-41a1-93b9-444030e04884</webElementGuid>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>141f1e70-ce6b-442f-b09a-12e15b95f192</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview Video'])[1]/following::button[1]</value>
-      <webElementGuid>9eca0d68-3b5b-4e99-987e-746cb7d5d213</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WhatsApp'])[1]/following::button[1]</value>
+      <webElementGuid>81fdc87b-c784-467d-828f-f118d29363b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Reality (VR) :'])[1]/following::button[2]</value>
-      <webElementGuid>f8952b6a-2620-4121-8ea3-81a49b8ad26a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/following::button[2]</value>
+      <webElementGuid>0896622a-a4e1-46b3-a9ac-48436e9ac37c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
-      <webElementGuid>43fc813f-5e02-4948-8268-1e7924b57220</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Publish']/parent::*</value>
-      <webElementGuid>f8b4d98f-56b3-44df-8bba-42a57c1efaf4</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Not Now']/parent::*</value>
+      <webElementGuid>f4790c92-ef1a-4225-a77f-bc18908fe8b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +94,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>dcf3a916-5d4a-45a0-a5ff-ed76ca077ca6</webElementGuid>
+      <webElementGuid>901f0a5f-b9a9-4103-9ece-4546c7d10d11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = ' Publish' or . = ' Publish')]</value>
-      <webElementGuid>3c22af91-ef8e-401b-9ff6-5de5139b5875</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Not Now' or . = 'Not Now')]</value>
+      <webElementGuid>8d87e9f7-f93b-46e5-ab69-c5f3d6a55fb1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4c549bed-fb39-4429-93bf-dc02abeb56b4</webElementGuid>
+      <webElementGuid>501d2d76-005d-4c84-89ef-7338740ed787</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>my properties</value>
-      <webElementGuid>09aa8252-755d-4887-88d8-bba5e7b6d798</webElementGuid>
+      <webElementGuid>59a7c7ec-c51d-404e-bee7-549cdba1cb4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navItem-my properties-4&quot;)/span[1]</value>
-      <webElementGuid>acc82f3c-e864-4c96-9fd0-c4a1a7fe382d</webElementGuid>
+      <webElementGuid>d39bc867-ffc3-4e1d-be64-6d81d18b0557</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='navItem-my properties-4']/span</value>
-      <webElementGuid>a37c2da4-5d1f-4da7-acf2-255347f99e54</webElementGuid>
+      <webElementGuid>6ee48f9b-6fb0-43bc-9511-4892be86fa4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='my e-business card'])[1]/following::span[1]</value>
-      <webElementGuid>ff1456ad-9d85-45b0-bcc8-8f7a9b1c9479</webElementGuid>
+      <webElementGuid>46c8dbd0-3422-47ad-bcb4-77dc132091aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='my profile'])[1]/following::span[2]</value>
-      <webElementGuid>98de7608-dbe2-493d-91a7-8971c0f73601</webElementGuid>
+      <webElementGuid>4f9fdd6d-cf67-4154-acc5-1ff2e70d0c68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='my auctions'])[1]/preceding::span[1]</value>
-      <webElementGuid>1cc22f75-657e-46d7-a149-64ae97fe6bb6</webElementGuid>
+      <webElementGuid>277483cb-8c4c-4e12-8d9c-6b722290910b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='my challenges'])[1]/preceding::span[2]</value>
-      <webElementGuid>dde5ba35-c836-44bf-b80d-119eaa3125d1</webElementGuid>
+      <webElementGuid>6862b0e5-fc3c-487e-8384-3e3356e07e2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='my properties']/parent::*</value>
-      <webElementGuid>7dfbb48d-7a6e-43fa-8fe8-eb523774fa89</webElementGuid>
+      <webElementGuid>03d9fe81-e95a-44d3-86dc-99e70ce50fd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a/span</value>
-      <webElementGuid>69c7affd-ba72-4690-9c67-5caab8d30678</webElementGuid>
+      <webElementGuid>89492aba-3ad7-4b10-bc58-e5c3c6835f35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'my properties' or . = 'my properties')]</value>
-      <webElementGuid>df4b060b-434c-441d-9640-29be6c3d2f9b</webElementGuid>
+      <webElementGuid>0d518afa-2678-4fa0-bb83-45d23588c197</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

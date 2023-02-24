@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>49bbc634-8ce2-41d7-bed6-b52403fc7c49</webElementGuid>
+      <webElementGuid>bf767c92-7ae2-43d7-a0a9-cafdae6f8992</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>memo</value>
-      <webElementGuid>420d5e2e-3276-4fa5-87bc-fb6a7e150bd5</webElementGuid>
+      <webElementGuid>9fe5e7bd-f3a8-46d2-acd5-17e58c1a28b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Leave your memo here</value>
-      <webElementGuid>1e45b207-a4b2-4038-9d4f-db9353e57a30</webElementGuid>
+      <webElementGuid>66699cfa-b779-4e54-a0e3-b7e138175955</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>1cd9afbf-4254-4d4b-9f33-053f992a7f81</webElementGuid>
+      <webElementGuid>21a63b6b-1e2f-41d3-8f1a-e42acfeafa68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control</value>
-      <webElementGuid>581661af-e5c7-425d-a2ff-5cb39d9f5ef5</webElementGuid>
+      <webElementGuid>82ce2940-8350-4765-9435-946034a60615</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type a</value>
-      <webElementGuid>b6302376-8fa6-41b9-8ad6-9a5bbac92dbc</webElementGuid>
+      <webElementGuid>1a2c9c6b-c721-4a79-9337-083749deeab6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;col-sm-12 col-xl-8&quot;]/textarea[@class=&quot;form-control form-control&quot;]</value>
-      <webElementGuid>ce695c90-0990-4455-8106-150491900f26</webElementGuid>
+      <webElementGuid>bc857700-eaa5-44d2-b0e1-3a02839e045d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@name='memo']</value>
-      <webElementGuid>3a660aa1-3959-4092-9ba4-640110941683</webElementGuid>
+      <webElementGuid>46929355-1518-4ae4-bc8c-07abff32993c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[10]/div/div/textarea</value>
-      <webElementGuid>9534fb9a-f493-4abf-8185-49f66d73a32d</webElementGuid>
+      <webElementGuid>4f78587e-777e-48d2-89e2-df42762cd124</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Memo :'])[1]/following::textarea[1]</value>
-      <webElementGuid>c887e077-4a06-41b0-8b08-0010732b3186</webElementGuid>
+      <webElementGuid>0e7fcfef-7f31-49bf-9c4d-625cb4b2f5c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Property Details'])[1]/preceding::textarea[1]</value>
-      <webElementGuid>22b2591d-4b87-4470-8b42-5dc9595f035e</webElementGuid>
+      <webElementGuid>d56f13dc-5ac9-4816-b2d6-b4efabbd6327</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/div/textarea</value>
-      <webElementGuid>fa0a07e7-97a5-48c9-831b-d79aeeb60b45</webElementGuid>
+      <webElementGuid>2e70206c-f130-4be6-a0a7-7035c8e817a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@name = 'memo' and @placeholder = 'Leave your memo here' and (text() = concat(&quot;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&quot; , &quot;'&quot; , &quot;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type a&quot;) or . = concat(&quot;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&quot; , &quot;'&quot; , &quot;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type a&quot;))]</value>
-      <webElementGuid>c181ab62-ea0c-45e4-a758-fdeea17b5240</webElementGuid>
+      <webElementGuid>e1a8c2ee-26d7-4519-96aa-7714592eaada</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

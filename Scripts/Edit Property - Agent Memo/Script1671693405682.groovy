@@ -31,6 +31,11 @@ WebUI.click(findTestObject('Object Repository/Agent Memo/Page_The Next Six Agent
 
 WebUI.click(findTestObject('Object Repository/Agent Memo/Page_The Next Six Agent (SIT)/span_my properties'))
 
+WebUI.setText(findTestObject('Object Repository/Agent Memo/Page_The Next Six Agent (SIT)/input_New(Developer Unit)Only_name'),
+	'OUG 1')
+
+WebUI.click(findTestObject('Object Repository/Agent Memo/Page_The Next Six Agent (SIT)/button_Search'))
+
 WebUI.click(findTestObject('Object Repository/Agent Memo/Page_The Next Six Agent (SIT)/div_1'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/Agent Memo/Page_The Next Six Agent (SIT)/label_Highlight'), 30)
@@ -50,4 +55,13 @@ WebUI.setText(findTestObject('Object Repository/Agent Memo/Page_The Next Six Age
     'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type a')
 
 WebUI.scrollToElement(findTestObject('Object Repository/Agent Memo/Page_The Next Six Agent (SIT)/button_Publish'), 30)
+
+WebUI.click(findTestObject('Object Repository/Agent Memo/Page_The Next Six Agent (SIT)/button_Publish'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Agent Memo/Page_The Next Six Agent (SIT)/p_Are you sure you want to publish this property'), 
+    'Are you sure you want to publish this property ?')
+
+WebUI.click(findTestObject('Object Repository/Agent Memo/Page_The Next Six Agent (SIT)/button_Okay'))
+
+WebUI.click(findTestObject('Object Repository/Agent Memo/Page_The Next Six Agent (SIT)/button_Not Now'))
 

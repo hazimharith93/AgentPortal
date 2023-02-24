@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Publish</name>
+   <name>label_Memo</name>
    <tag></tag>
-   <elementGuidId>e1093779-6918-412e-8d6a-f69e2e652680</elementGuidId>
+   <elementGuidId>c91bcd9b-6616-4509-b6bf-e44f63ec609e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div/div/div[2]/div/div[3]/button</value>
+         <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[10]/div/label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>86440444-13a5-4c8b-ae0e-b20060ac629e</webElementGuid>
+      <value>label</value>
+      <webElementGuid>edaea13a-a6e6-44b7-84db-125676a2ca0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>memo</value>
+      <webElementGuid>729b5c2b-3fbc-4299-bb71-b3e4986c96b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>0c216ef6-17a9-4746-8a76-8b257829cc85</webElementGuid>
+      <value>col-sm-12 col-xl-2 offset-xl-1 col-form-label</value>
+      <webElementGuid>74a68d8b-7bbf-4d8f-a81e-3e268065cb39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Publish</value>
-      <webElementGuid>ef42e170-0db9-4bfb-bead-64ed346dffb9</webElementGuid>
+      <value>Memo :</value>
+      <webElementGuid>4aa839d6-e6c2-49d8-a4e0-156e484c1e1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>67981635-bd48-40b5-b19c-ac3049b7186a</webElementGuid>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;input-group&quot;]/label[@class=&quot;col-sm-12 col-xl-2 offset-xl-1 col-form-label&quot;]</value>
+      <webElementGuid>5ffb5b4c-9921-4017-a561-592572cb80f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div/div[2]/div/div[3]/button</value>
-      <webElementGuid>14bbc84f-541b-41a1-93b9-444030e04884</webElementGuid>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[10]/div/label</value>
+      <webElementGuid>155924ef-cd60-4791-be1f-29d3aeba5ae1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview Video'])[1]/following::button[1]</value>
-      <webElementGuid>9eca0d68-3b5b-4e99-987e-746cb7d5d213</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test123'])[1]/following::label[2]</value>
+      <webElementGuid>c5166ea5-b408-4e7b-9383-cf5a3ae1c17b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Reality (VR) :'])[1]/following::button[2]</value>
-      <webElementGuid>f8952b6a-2620-4121-8ea3-81a49b8ad26a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Co-Broke Section'])[1]/preceding::label[2]</value>
+      <webElementGuid>4a122faa-0b39-450a-833e-79f62ee17475</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
-      <webElementGuid>43fc813f-5e02-4948-8268-1e7924b57220</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Publish']/parent::*</value>
-      <webElementGuid>f8b4d98f-56b3-44df-8bba-42a57c1efaf4</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Memo']/parent::*</value>
+      <webElementGuid>3215e992-b337-40fa-b2e7-6b3c5c7323f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>dcf3a916-5d4a-45a0-a5ff-ed76ca077ca6</webElementGuid>
+      <value>//div[10]/div/label</value>
+      <webElementGuid>f10f815b-00f9-419d-af98-f3a4e9eb5dda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = ' Publish' or . = ' Publish')]</value>
-      <webElementGuid>3c22af91-ef8e-401b-9ff6-5de5139b5875</webElementGuid>
+      <value>//label[(text() = 'Memo :' or . = 'Memo :')]</value>
+      <webElementGuid>b0eed156-7453-4726-afd6-2a447c9b0882</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

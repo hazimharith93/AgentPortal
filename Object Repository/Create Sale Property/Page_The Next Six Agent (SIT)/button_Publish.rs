@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h3_Lipsum generator Lorem Ipsum - All the facts</name>
+   <name>button_Publish</name>
    <tag></tag>
-   <elementGuidId>8e1cda70-221c-4dbe-aa54-98e8bebe9d00</elementGuidId>
+   <elementGuidId>8c62ec0f-785c-45ae-8fcc-fd41624688ae</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+         <value>button.btn.btn-primary</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='rso']/div/div/div/div/div/div/div/div/a/h3</value>
+         <value>//div[@id='root']/main/div/div/div[2]/div/div[3]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h3</value>
-      <webElementGuid>dfb0b8e5-4c28-44e5-a564-aaf0f65cb9ce</webElementGuid>
+      <value>button</value>
+      <webElementGuid>b72b44a9-9910-4672-98ca-5c6c7b1489b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>LC20lb MBeuO DKV0Md</value>
-      <webElementGuid>114c982f-385c-48a2-84e9-4dce7bd69798</webElementGuid>
+      <value>btn btn-primary</value>
+      <webElementGuid>a7a3ec02-67ca-45ef-a3e0-863d557c5d4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Lipsum generator: Lorem Ipsum - All the facts</value>
-      <webElementGuid>5d342658-79a9-481f-9264-214cf935f078</webElementGuid>
+      <value> Publish</value>
+      <webElementGuid>c61b4f33-1687-4a39-bdd3-1bfc58b7712f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;rso&quot;)/div[@class=&quot;MjjYud&quot;]/div[@class=&quot;g&quot;]/div[@class=&quot;BYM4Nd&quot;]/div[@class=&quot;eKjLze&quot;]/div[@class=&quot;g&quot;]/div[1]/div[@class=&quot;tF2Cxc&quot;]/div[@class=&quot;yuRUbf&quot;]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
-      <webElementGuid>c5c87fe9-4b85-4ed0-8724-938015ab66ca</webElementGuid>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>f9ddeb94-5efd-4bcb-a7c5-c629c7584c35</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='rso']/div/div/div/div/div/div/div/div/a/h3</value>
-      <webElementGuid>8b8a4a91-89eb-4d75-a8ee-76aae1d1cc7c</webElementGuid>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[3]/button</value>
+      <webElementGuid>908b9d32-813f-44f5-a298-0c5203d4d129</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web result with site links'])[1]/following::h3[1]</value>
-      <webElementGuid>20cb2983-4974-40a7-ba3e-20dea6cfe601</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Reality (VR) :'])[1]/following::button[1]</value>
+      <webElementGuid>161be57e-0abd-444d-a620-674e57eb0c88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/following::h3[1]</value>
-      <webElementGuid>3ad1e0cd-3492-4420-9fe1-92525b813be9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Embed Link :'])[1]/following::button[1]</value>
+      <webElementGuid>12420c4e-e80f-4be7-a65a-eef6fa4e3eaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://www.lipsum.com'])[1]/preceding::h3[1]</value>
-      <webElementGuid>7fa3489f-ed88-4471-b31c-ba9c7b6e5c27</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save as draft'])[1]/preceding::button[1]</value>
+      <webElementGuid>f7539821-15e3-4429-9c82-1876b154cf15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://www.lipsum.com'])[2]/preceding::h3[1]</value>
-      <webElementGuid>2b783308-de68-43d3-b88a-751733d22f49</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[2]</value>
+      <webElementGuid>bd193cb7-b329-4ea5-adf1-ac79e2d7439d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Lipsum generator: Lorem Ipsum - All the facts']/parent::*</value>
-      <webElementGuid>d015d3f9-c99f-4f5a-b6a6-c6386e1dcf16</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Publish']/parent::*</value>
+      <webElementGuid>30996a4f-03a7-4d21-9ab1-20cee73738be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h3</value>
-      <webElementGuid>aafad60b-4d9b-43b3-a725-bde734ee1e42</webElementGuid>
+      <value>//div[3]/button</value>
+      <webElementGuid>e04631a0-1f0e-4d64-84e8-7a3a5aea4114</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h3[(text() = 'Lipsum generator: Lorem Ipsum - All the facts' or . = 'Lipsum generator: Lorem Ipsum - All the facts')]</value>
-      <webElementGuid>8f5dda2d-b094-4c78-9f70-c71410fde452</webElementGuid>
+      <value>//button[(text() = ' Publish' or . = ' Publish')]</value>
+      <webElementGuid>e80a21ef-1c89-4293-94c5-11f261d07938</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
