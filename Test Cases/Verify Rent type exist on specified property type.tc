@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Rent type exist on specified property type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42a88c9e-d64e-4c08-a586-8830613ae485</testCaseGuid>
+</TestCaseEntity>
